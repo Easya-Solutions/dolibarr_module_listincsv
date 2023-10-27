@@ -25,7 +25,7 @@
 
 function listincsvAdminPrepareHead()
 {
-    global $langs, $conf;
+    global $langs, $conf, $object;
 
     $langs->load("listincsv@listincsv");
 
